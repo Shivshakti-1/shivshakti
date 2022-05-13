@@ -21,18 +21,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['917505344967']
-global.premium = ['917505344967']
-global.ownernomer = '917505344967'
-global.ownername = '🚩AMAN PAL🚩'
-global.botname = 'Pandu Bot MD V2'
+global.owner = ['919172673114']
+global.premium = ['919172673114']
+global.ownernomer = '919172673114'
+global.ownername = 'RAJ💔'
+global.botname = 'RAJ BOT'
 global.footer = 'Aman Bot Inc.'
 global.ig = 'https://github.com/12345678-cyber'
-global.region = 'India, up east'
+global.region = 'India, up west'
 global.sc = 'https://github.com/12345678-cyber/shivshakti0'
-global.myweb = 'https://instagram.com/kattar.hindu_____?igshid=YmMyMTA2M2Y='
-global.packname = 'Pandu Bot'
-global.author = '🚩 BHAGWADHARI 🚩'
+global.myweb = 'not used'
+global.packname = 'RAJ Bot'
+global.author = 'RAJ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
